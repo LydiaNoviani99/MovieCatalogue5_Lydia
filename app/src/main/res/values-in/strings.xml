@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalogue Lydia</string>
+    <string name="TvShow">Acara TV</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="daily_reminder_message">Mari kita lihat apakah ada Film dan Acara TV baru di WatchID</string>
+    <string name="favorite">Favorit</string>
+    <string name="movie">Film</string>
+    <string name="notfound">Tidak Ketemu</string>
+    <string name="null_result">Tidak Tersedia</string>
+    <string name="overview">Sinopsis</string>
+    <string name="popularity">Kepopuleran</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="release_reminder">Pengingat Rilis</string>
+    <string name="release_reminder_message">Cek sinopsis apa saja di WatchID</string>
+    <string name="result">Hasil Dari :</string>
+    <string name="search">Cari</string>
+    <string name="title_dashboard">Acara TV</string>
+    <string name="title_home">Film</string>
+    <string name="title_notifications">Favorit</string>
+    <string name="vote_count">Hitungan Suara</string>
+    <string name="settings">Pengaturanfchc</string>
+</resources>
